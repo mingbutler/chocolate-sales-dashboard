@@ -31,6 +31,7 @@ The dashboard answers critical business questions to aid operational and marketi
 ## 🛠️ Data Architecture & Tech Stack
 
 * **Tooling:** Tableau Public, CSV
+* **Data Source:** [**Kaggle Chocolate Sales Dataset**](https://www.kaggle.com/datasets/ssssws/chocolate-sales-dataset-2023-2024)
 * **Data Model:** Star Schema
   * `sales.csv` (Central Fact Table)
   * `stores.csv` (Dimension: Location, City, Store Name)
